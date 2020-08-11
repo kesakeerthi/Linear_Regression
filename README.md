@@ -1,11 +1,13 @@
 # Elasticnet Regression over Graduate Admissions dataset.
       https://www.kaggle.com/mohansacharya/graduate-admissions/home
-      
+
+### Simple Application Demo using Swagger. UI handling is partly taken care by Swagger and developer has much visibility on internal flow, parameters/integrations.
+
 # Using
 ##  1. Flask
 ##  2. Swagger
 
-### Simple Application Demo using Swagger. UI is taken care and developer has much visibility on flow, parameters and integrations.
+
   
 ## Single Entity Prediction
 <img src="/Pic1.jpg" alt="My cool logo"/>
