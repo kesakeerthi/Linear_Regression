@@ -7,12 +7,11 @@
 ##  1. Flask
 ##  2. Swagger
 
+<img src="imgs/Pic1.jpg" alt="My cool logo"/>
 
 ## Single Entity Prediction
-<img src="imgs/Pic1.jpg" alt="My cool logo"/>
 <img src="imgs/Pic2.jpg" alt="My cool logo"/>
-
+<img src="imgs/Pic3.jpg" alt="My cool logo"/>
 
 ## Bulk records(Inputs in CSV) Prediction 
-<img src="imgs/Pic3.jpg" alt="My cool logo"/>
 <img src="imgs/Pic4.jpg" alt="My cool logo"/>
